@@ -12,12 +12,12 @@ Education
 
 2010-2013
 :   **Bachelor of Engineering in Computer Science**; Universitat Jaume I (Spain)
-
+    *Degree Thesis: Analysis of authentication radiofrequency systems and RFID. Mark gained: 95%*
     *Advanced Data Structures, Compilers and Interpreters and Distributed Systems*
 
 2006-2010
 :   **Associate Degree in Computer Science**; Universitat Jaume I (Spain)
-
+    *Degree Thesis: Secure platform for advanced electronic signature. Mark gained: 92%*
     *Operating Systems,Real Time Operating Systems and Embedded Systems*
 
 Experience
