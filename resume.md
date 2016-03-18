@@ -46,6 +46,9 @@ Experience
 Courses
 -------
 
+March 2016
+:   **LFD320: Linux Kernel Internals and Debugging**; Linux Foundation
+
 August 2015
 :   **Agile for developers**; Accelebrate
 
