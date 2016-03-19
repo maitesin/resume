@@ -55,9 +55,6 @@ August 2015
 November 2014
 :   **Algorithms, Part II**; Coursera, Prinston University
 
-November 2014
-:   **Algorithms: Design and Analysis, Part I**; Coursera Stanford University
-
 September 2014
 :   **Algorithms, Part I**; Coursera, Prinston University
 
@@ -91,7 +88,9 @@ applications I used ***Pthreads*** and ***OpenMP***, I had some experience with 
 
 :   **C:** I used C for low level programming, such as ***Linux Kernel Drivers*** for Real Time Operating Systems [RTAI](https://www.rtai.org/) and to create a new scheduler using the [Rate-Monotonic](https://en.wikipedia.org/wiki/Rate-monotonic_scheduling) algorithm. Moreover, I used C in ***Embedded Systems*** to create applications to control industrial systems using ***Syscalls***.
 
-:   Good knowledge of: **Python** and **Bash** with scripting purposes.
+:   **ARM:** I am learning the ***ARM assembly*** for ARMv8. For that I am using a BeagleBone Black to play with it. Moreover, I started the project [ARM C Compiler (ACC)](https://github.com/maitesin/acc) to learn properly all the aspects of the architecture.
+
+:   Good knowledge of: ***Python*** and ***Bash*** with scripting purposes.
 
 Languages
 ---------
