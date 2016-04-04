@@ -12,16 +12,16 @@ Education
 
 2010-2013
 :   **Bachelor of Engineering in Computer Science**; Universitat Jaume I (Spain)
-    
+
     *Degree Thesis: Analysis of authentication radiofrequency systems and RFID. Mark gained: 95%*
 
     *Advanced Data Structures, Compilers and Interpreters and Distributed Systems*
 
 2006-2010
 :   **Associate Degree in Computer Science**; Universitat Jaume I (Spain)
-    
+
     *Degree Thesis: Secure platform for advanced electronic signature. Mark gained: 92%*
-    
+
     *Operating Systems,Real Time Operating Systems and Embedded Systems*
 
 Experience
@@ -34,17 +34,20 @@ Experience
 
     -Static analysis of code: Checks if the code has some patterns that have an *undefined behaviour*, *unspecified in the Standard*, and/or *implementation-defined*.
 
-     -Dataflow analysis of code: Checks the complexity of methods, pointer problems, memory handeling, etc.
+    -Dataflow analysis of code: Checks the complexity of methods, pointer problems, memory handeling, etc.
 
 2013-2015
 :   **Software Engineer at European Bioinformatics Institute**
 
-    One of my duties was to create a RESTful service to allow users to query our database to find information about multiprotein complexes.
+    One of my duties was to create a RESTful service to allow users to query for information about multiprotein complexes.
 
-    In addition, I developed an algorithm to cluster biological information from different kinds of proteins.
+    In addition, I developed an algorithm to cluster biological information from proteins.
 
 Courses
 -------
+
+April 2016
+:   **LFD331: Developing Linux Device Drivers**; Linux Foundation
 
 March 2016
 :   **LFD320: Linux Kernel Internals and Debugging**; Linux Foundation
@@ -55,8 +58,8 @@ August 2015
 November 2014
 :   **Algorithms, Part II**; Coursera, Prinston University
 
-September 2014
-:   **Algorithms, Part I**; Coursera, Prinston University
+[comment]: # (September 2014)
+[comment]: # (:   **Algorithms, Part I**; Coursera, Prinston University)
 
 Technical Experience
 --------------------
