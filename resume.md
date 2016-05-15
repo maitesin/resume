@@ -54,10 +54,10 @@ August 2015
 :   **Agile for developers**; Accelebrate
 
 November 2014
-:   **Algorithms, Part II**; Coursera, Prinston University
+:   **Algorithms, Part II**; Coursera, Princeton University
 
 September 2014
-:   **Algorithms, Part I**; Coursera, Prinston University
+:   **Algorithms, Part I**; Coursera, Princeton University
 
 Technical Experience
 --------------------
