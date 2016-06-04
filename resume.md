@@ -7,19 +7,6 @@ Oscar Forner Martinez
 
 ----
 
-Education
----------
-
-2010-2013
-:   **Bachelor of Engineering in Computer Science**; Universitat Jaume I (Spain)
-
-    *Advanced Data Structures, Compilers and Interpreters and Distributed Systems*
-
-2006-2010
-:   **Associate Degree in Computer Science**; Universitat Jaume I (Spain)
-
-    *Operating Systems,Real Time Operating Systems and Embedded Systems*
-
 Experience
 ----------
 
@@ -59,6 +46,21 @@ November 2014
 September 2014
 :   **Algorithms, Part I**; Coursera, Princeton University
 
+
+Education
+---------
+
+2010-2013
+:   **Bachelor of Engineering in Computer Science**; Universitat Jaume I (Spain)
+
+    *Advanced Data Structures, Compilers and Interpreters and Distributed Systems*
+
+2006-2010
+:   **Associate Degree in Computer Science**; Universitat Jaume I (Spain)
+
+    *Operating Systems,Real Time Operating Systems and Embedded Systems*
+
+
 Technical Experience
 --------------------
 
@@ -67,11 +69,11 @@ Open Source
 be found in my [GitHub](https://github.com/maitesin) account.
 
 Agile Methodologies
-:   I have experience working with **agile methodologies** such as **Scrum** and **Kanban**. Moreover, I work using techniques like **code review**, **pair programming** and **TDD**.
+:   I have experience working with **agile methodologies** such as **Scrum** and **Kanban**. Moreover, I work using techniques such as **code review**, **pair programming** and **TDD**.
 
 [Prefix Tree](https://github.com/maitesin/tries)
 :   I created a project to compare the performance in different *Prefix Tree* such as ***Trie***, ***Ternary Search
-Tree*** and ***Radix Tree***. I used several cutting edge technologies like: **C++11**, **Google Test** (for unit test) and
+Tree*** and ***Radix Tree***. I used several cutting edge technologies such as **C++11**, **Google Test** (for unit test) and
 [Conan](https://www.conan.io/) (for dependencies manager).
 
 [ARM C Compiler (ACC)](https://github.com/maitesin/acc)
