@@ -3,7 +3,7 @@ Oscar Forner Martinez
 
 ----
 
->  I am a software engineer who likes challenges when working in a project, I really enjoy applying advanced algorithms and data structures to solve problems in an efficient and elegant way. Moreover, I am interested in topics such as Linux Kernel and Compilers.
+>  I am a software engineer who likes challenges when working in a project, I really enjoy applying elegant algorithms and advanced data structures to solve problems in an efficient and elegant way. Moreover, I am interested in topics such as Linux Kernel and Compilers.
 
 ----
 
