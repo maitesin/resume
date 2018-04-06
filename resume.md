@@ -5,13 +5,28 @@ Oscar Forner Martinez
 
 >  I am a software engineer who likes challenges when working in a project, I really enjoy applying elegant algorithms and advanced data structures to solve problems in an efficient and elegant way. Moreover, I am interested in topics such as Linux Kernel and Compilers.
 
+**You can use an interactive version of my CV by running: `docker run -it maitesin/resume`**
+
 ----
 
 Experience
 ----------
 
-2015-Present
-:   **Software Developer at Programming Research Ltd.**
+2016-Present
+:   **Software Engineer at VCA Technology**
+
+    When working for VCA Technology I worked in several projects, such as:
+
+    -Network library that allows the user to interact with Boost ASIO through the std::stream interface.
+
+    -Tool to improve the toolchain used internally to allow the usage of clang-tidy for the linting of our code. Another tool allows to switch between several versions of the toolchain without having to change the environment.
+
+    -Backend development of several activities regarding the extension and implementation of new features in the backend of the product such as Authentication and GStreamer sinks.
+
+    -Started the integration testing project. Currently runs as part of our continuous integration system.
+
+2015-2016
+:   **Software Developer at Programming Research**
 
     I have been working in a couple of projects during my time at Programming Research.
 
@@ -36,18 +51,15 @@ Experience
 :    **Linux Kernel**: I am interested in topics such as **Scheduler** and **Device Drivers**. I am currently taking the [Eudyptula Challenge](http://eudyptula-challenge.org/).
 :    **[Prefix Tree Comparison](https://github.com/maitesin/tries)**: Compare performance for different ***Trie***, ***Ternary Search Tree*** and ***Radix Tree***.
 :    **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)**: I am creating a **self-hosting compiler** for **C** in the **ARM** architecture.
+:    **[Interactive CV](https://github.com/maitesin/rust-cv)**: I have created an interactive CV using **Rust** and **Docker**.
 
-Courses
--------
+[comment]: # (Courses)
 
-April 2016
-:   **LFD331: Developing Linux Device Drivers**; Linux Foundation
+[comment]: # (April 2016:   **LFD331: Developing Linux Device Drivers**; Linux Foundation)
 
-March 2016
-:   **LFD320: Linux Kernel Internals and Debugging**; Linux Foundation
+[comment]: # (March 2016:   **LFD320: Linux Kernel Internals and Debugging**; Linux Foundation)
 
-August 2015
-:   **Agile for developers**; Accelebrate
+[comment]: # (August 2015:   **Agile for developers**; Accelebrate)
 
 [comment]: # (November 2014:   **Algorithms, Part II**; Coursera, Princeton University)
 
@@ -72,49 +84,37 @@ Programming Languages
 --------------------
 
 C++
-:   3 year experience using ***C++11/14*** and ***Boost***.
+:   5 year experience using ***Modern C++*** and ***Boost***.
 
 C
-:   3 year experience.
+:   5 year experience.
 
-ARM
-:   A few months of experience.
+Python
+:   4 year experience.
 
-Python and Bash
-:   Good knowledge with scripting purposes.
+Go
+:   1 year experience.
+
+Rust
+:   6 month experience.
 
 Technical Skills
 ----------------
 
-Methodologies
-:   **Design Patterns**, **Object Oriente Programming/Design**.
-
 Agile
 :   **Scrum**, **Kanban**, **Code Review**, **Pair Programming** and **TDD**.
 
-Unit Test
-:   **Google Test**, **Google Mock**, **Unity** and **FFF**.
-
-Libraries
-:   **Boost**, **Protocol Buffers** and **LLVM**.
-
-Debugger
-:   **GDB**, **LLDB** and **Mozilla rr**.
-
 Build
-:   **Make**, **CMake**, **Maven** and **Gradle**.
+:   **Make**, **Ninja**, **CMake**, **Meson** and **Waf**.
 
 CI
-:   **Jenkins** and **Travis**.
+:   **Travis**, **GitLab-CI** and **Jenkins**.
 
 VCS
 :   **Git**, **Subversion** and **Mercurial**.
 
-Tools
-:   **Cling**, **Clang-tidy**, **Clang-modernize**, **Clang-format**, **Ctags** and **Cscope**.
-
 Analysis
-:   **Clang-sanitizer**, **PRQA Framework**, **Coverity**, **Perf** and **Valgrind**.
+:   **Clang-sanitizer**, **Coverity**, **Perf** and **Valgrind**.
 
 Languages
 ---------
@@ -128,7 +128,6 @@ English
 
 > <oscar.forner.martinez@gmail.com> \
 > +44 (0)75 96944383 \
-> Blog: [http://maitesin.github.io/](http://maitesin.github.io/) \
+> Blog: [https://oscarforner.com](https://oscarforner.com/) \
 > LinkedIn: [https://www.linkedin.com/in/oscarforner](https://www.linkedin.com/in/oscarforner) \
-> GitHub: [https://github.com/maitesin](https://github.com/maitesin) \
-> 283A Hersham Road - Walton-on-Thames, KT12 5PZ \
+> GitHub: [https://github.com/maitesin](https://github.com/maitesin)
