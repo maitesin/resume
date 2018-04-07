@@ -15,15 +15,15 @@ Experience
 2016-Present
 :   **Software Engineer at VCA Technology**
 
-    When working for VCA Technology I worked in several projects, such as:
+    At VCA Technology I worked in several projects:
 
-    -Network library that allows the user to interact with Boost ASIO through the std::stream interface.
+    -A **network library** that allows the user to interact with **Boost ASIO** through the **std::stream** interface.
 
-    -Tool to improve the toolchain used internally to allow the usage of clang-tidy for the linting of our code. Another tool allows to switch between several versions of the toolchain without having to change the environment.
+    -A tool to **improve the toolchain** used internally to allow the usage of **clang-tidy** for the linting of our code. And a tool that allows to **switch between several versions of the toolchain** without having to change the environment.
 
-    -Backend development of several activities regarding the extension and implementation of new features in the backend of the product such as Authentication and GStreamer sinks.
+    -**Backend development** of several activities regarding the extension and implementation of new features in the backend of the product such as **Authentication**, **Configuration migration process** and **GStreamer** sinks.
 
-    -Started the integration testing project. Currently runs as part of our continuous integration system.
+    -Started the **integration testing** project that currently runs as part of the **continuous integration** system.
 
 2015-2016
 :   **Software Developer at Programming Research**
@@ -84,19 +84,19 @@ Programming Languages
 --------------------
 
 C++
-:   5 year experience using ***Modern C++*** and ***Boost***.
+:   5 years of experience using ***Modern C++*** and ***Boost***.
 
 C
-:   5 year experience.
+:   5 years of experience.
 
 Python
-:   4 year experience.
+:   4 years of experience.
 
 Go
-:   1 year experience.
+:   1 year of experience.
 
 Rust
-:   6 month experience.
+:   6 months of experience.
 
 Technical Skills
 ----------------
