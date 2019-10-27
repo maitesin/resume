@@ -3,7 +3,7 @@ Oscar Forner Martinez
 
 ----
 
->  I am a software engineer who likes challenges when working in a project, I really enjoy applying elegant algorithms and advanced data structures to solve problems in an efficient and elegant way. Moreover, I am interested in topics such as Linux Kernel and Compilers.
+> I am a software engineer with experience in all phases of the development process. I have experience in a diversity of projects ranging from a RESTful API, and compilers to video processing pipelines.
 
 **You can use an interactive version of my CV by running: `docker run -it maitesin/resume`**
 
@@ -12,29 +12,30 @@ Oscar Forner Martinez
 Experience
 ----------
 
-2016-Present
+2018-Present
+:   **Senior Backend Software Engineer at GlobalSign**
+
+    As part of my duties in GlobalSign I implemented new functionalities in the **High Performance Platform** that serve thousands of certificates per second, and I took care of the migration of backend storage from **MongoDB** to **PostgreSQL**.
+
+    Moreover, implemented a prototype of the system used in production running in **Kubernetes** to test the feasibility of a future migration.
+    
+    I mentored multiple new-hires and had a highly involved role in the hiring process. 
+
+2016-2018
 :   **Software Engineer at VCA Technology**
 
-    At VCA Technology I worked in several projects:
-
-    -A **network library** that allows the user to interact with **Boost ASIO** through the **std::stream** interface.
-
-    -A tool to **improve the toolchain** used internally to allow the usage of **clang-tidy** for the linting of our code. And a tool that allows to **switch between several versions of the toolchain** without having to change the environment.
-
-    -**Backend development** of several activities regarding the extension and implementation of new features in the backend of the product such as **Authentication**, **Configuration migration process** and **GStreamer** sinks.
-
-    -Started the **integration testing** project that currently runs as part of the **continuous integration** system.
+    During my time at VCA Technology I created a **network library** that allows the user to interact with **Boost ASIO** through the **std::stream** interface, added **authentication** to the system, and designed the **configuration migration process**.
+    
+    In addition, I improved the in-house **toolchain** to use **clang-tidy** for the linting of our code and I lead the usage of **continuous integration** in order to improve the product delivered to the customer, and to reduce the time to market.
 
 2015-2016
 :   **Software Developer at Programming Research**
 
-    I have been working in a couple of projects during my time at Programming Research.
+    I worked in two projects during my time at Programming Research.
 
     -**Static analysis of code**: Checks if the code has some patterns that have an *undefined behaviour*, *unspecified in the Standard*, and/or *implementation-defined*.
 
     -**Dataflow analysis of code**: Checks the complexity of methods, pointer problems, memory handling, etc.
-
-    In addition, I had to take over two projects to refactor, maintain and add new features.
 
 2013-2015
 :   **Software Engineer at European Bioinformatics Institute**
@@ -43,15 +44,16 @@ Experience
 
     In addition, I developed an algorithm to cluster biological information from proteins.
 
-2013-Present
-:   **Open Source**
+[comment]: # (2013-Present)
+[comment]: # (:   **Open Source**)
 
-    I am actively contributing to open source projects that I find interesting and challenging. Some of my contributions can be found in my [GitHub profile](https://github.com/maitesin).
+[comment]: # (    I am actively contributing to open source projects that I find interesting and challenging. Some of my contributions can be found in my [GitHub profile](https://github.com/maitesin).)
 
-:    **Linux Kernel**: I am interested in topics such as **Scheduler** and **Device Drivers**. I am currently taking the [Eudyptula Challenge](http://eudyptula-challenge.org/).
-:    **[Prefix Tree Comparison](https://github.com/maitesin/tries)**: Compare performance for different ***Trie***, ***Ternary Search Tree*** and ***Radix Tree***.
-:    **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)**: I am creating a **self-hosting compiler** for **C** in the **ARM** architecture.
-:    **[Interactive CV](https://github.com/maitesin/rust-cv)**: I have created an interactive CV using **Rust** and **Docker**.
+[comment]: # (:    **Linux Kernel**: I am interested in topics such as **Scheduler** and **Device Drivers**. I am currently taking the [Eudyptula Challenge](http://eudyptula-challenge.org/).)
+[comment]: # (:    **[Prefix Tree Comparison](https://github.com/maitesin/tries)**: Compare performance for different ***Trie***, ***Ternary Search Tree*** and ***Radix Tree***.)
+[comment]: # (:    **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)**: I am creating a **self-hosting compiler** for **C** in the **ARM** architecture.)
+[comment]: # (:    **[Interactive CV](https://github.com/maitesin/rust-cv)**: I have created an interactive CV using **Rust** and **Docker**.)
+
 
 [comment]: # (Courses)
 
@@ -86,35 +88,40 @@ Programming Languages
 C++
 :   5 years of experience using ***Modern C++*** and ***Boost***.
 
-C
+Python
 :   5 years of experience.
 
-Python
+C
 :   4 years of experience.
 
 Go
-:   1 year of experience.
+:   3 year of experience.
 
-Rust
-:   6 months of experience.
+[comment]: # (Rust:   6 months of experience.)
 
 Technical Skills
 ----------------
 
-Agile
-:   **Scrum**, **Kanban**, **Code Review**, **Pair Programming** and **TDD**.
-
 Build
-:   **Make**, **Ninja**, **CMake**, **Meson** and **Waf**.
+:   **CMake**, **Meson**, **Make** and **Ninja**.
 
 CI
-:   **Travis**, **GitLab-CI** and **Jenkins**.
+:   **GitLab-CI**, **Jenkins**, **Bamboo** and **Travis**.
 
-VCS
-:   **Git**, **Subversion** and **Mercurial**.
+Databases
+:   **MongoDB**, **PostgreSQL**, **CockroachDB**, **MariaDB**, **SQLite** and **MySQL**.
 
 Analysis
 :   **Clang-sanitizer**, **Coverity**, **Perf** and **Valgrind**.
+
+Orchestration
+:   **Kubernetes** and **Docker compose**.
+
+Message Broker
+:   **RabbitMQ** and  **Kafka**.
+
+Operating Systems
+:   **GNU/Linux**, **MacOS**, **FreeBSD** and **OpenBSD**.
 
 Languages
 ---------
