@@ -108,10 +108,10 @@ Databases
 :   **MongoDB**, **PostgreSQL**, **CockroachDB**, **MariaDB**, **SQLite** and **MySQL**.
 
 Analysis
-:   **Clang-sanitizer**, **Coverity**, **Perf** and **Valgrind**.
+:   **Golint**, **Go vet**, **Perf**, **Clang-sanitizer** and **Valgrind**.
 
 Orchestration
-:   **Kubernetes** and **Docker compose**.
+:   **Kubernetes**, **Helm** and **Docker compose**.
 
 Message Broker
 :   **RabbitMQ** and  **Kafka**.
