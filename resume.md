@@ -17,7 +17,7 @@ June 2018 - Present
 
     As part of my duties in GlobalSign I implemented new functionalities in the **High Performance Platform** that serve thousands of certificates per second, and I took care of the migration of backend storage from **MongoDB** to **PostgreSQL**.
 
-    Moreover, implemented a prototype of the system used in production running in **Kubernetes** to test the feasibility of a future migration.
+    Moreover, implemented a prototype of the system used in production running in **Kubernetes** to test the feasibility of a future migration. As a side project I developed an **static analysis** tool to enforce the code style used in the company.
     
     I mentored multiple new-hires and had a highly involved role in the hiring process. 
 
