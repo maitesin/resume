@@ -3,7 +3,7 @@ Oscar Forner Martinez
 
 ----
 
-> I am a software engineer with experience in all phases of the development process. I have experience in a diversity of projects ranging from a RESTful API, and compilers to video processing pipelines.
+> I am a software engineer with experience in all phases of the development process with special focus on delivering quality software to the costumers. I have experience in a diversity of projects ranging from a RESTful API processing thousands of requests per second, through compilers to video processing pipelines.
 
 **You can use an interactive version of my CV by running: `docker run -it maitesin/resume`**
 
