@@ -17,7 +17,7 @@ June 2018 - Present
 
     As part of my duties in GlobalSign I implemented new functionalities in the **High Performance Platform** that serve thousands of certificates per second, and I took care of the migration of backend storage from **MongoDB** to **PostgreSQL**.
 
-    Moreover, implemented a prototype of the system used in production running in **Kubernetes** to test the feasibility of a future migration. As a side project I developed an **static analysis** tool to enforce the code style used in the company.
+    Moreover, I implemented a prototype of the system used in production running in **Kubernetes** to test the feasibility of a future migration. As a side project I developed an **static analysis** tool to enforce the code style used in the company.
     
     I mentored multiple new-hires and had a highly involved role in the hiring process. 
 
@@ -33,23 +33,26 @@ April 2015 - Sept. 2016
 
     I worked in two projects during my time at Programming Research.
 
-    -**Static analysis of code**: Checks if the code has some patterns that have an *undefined behaviour*, *unspecified in the Standard*, and/or *implementation-defined*.
+    -**Static analysis of code**: Checks if the code has some patterns such as: *undefined behaviour*, *unspecified in the Standard*, and/or *implementation-defined*.
 
     -**Dataflow analysis of code**: Checks the complexity of methods, pointer problems, memory handling, etc.
 
 July 2013 - Apr. 2015
 :   **Software Engineer at European Bioinformatics Institute**
 
-    One of my duties was to create a RESTful service to allow users to query for information about multiprotein complexes.
+    My main duty was to create a RESTful service to allow users to query for information about multiprotein complexes.
 
     In addition, I developed an algorithm to cluster biological information from proteins.
+
+
+:  
 
 2013-Present
 :   **Open Source**
 
-    I am actively contributing to open source projects that I find interesting, and useful. Some of my contributions can be found in my [GitHub profile](https://github.com/maitesin).
+    I am actively contributing to open source projects that I find interesting and useful. Some of my contributions can be found in my [GitHub profile](https://github.com/maitesin).
 
-    To name some, **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)** is a **self-hosting compiler** for **C** in the **ARM** architecture, **[Interactive CV](https://github.com/maitesin/rust-cv)** built using **Rust** and **Docker**, and a **[Prefix Tree Comparison](https://github.com/maitesin/tries)** to compare the performance of ***Trie*** and ***Radix Tree***.
+    These include, **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)** is a **self-hosting compiler** for **C** in the **ARM** architecture, **[Interactive CV](https://github.com/maitesin/rust-cv)** built using **Rust** and **Docker**, and a **[Prefix Tree Comparison](https://github.com/maitesin/tries)** to compare the performance of ***Trie*** and ***Radix Tree***.
 
 [comment]: # (Courses)
 
@@ -91,7 +94,7 @@ C
 :   4 years of experience.
 
 Go
-:   3 year of experience.
+:   3 years of experience.
 
 [comment]: # (Rust:   6 months of experience.)
 
@@ -110,14 +113,11 @@ Databases
 Analysis
 :   **Golint**, **Go vet**, **Perf**, **Clang-sanitizer** and **Valgrind**.
 
-Orchestration
+Orchestra.
 :   **Kubernetes**, **Helm** and **Docker compose**.
 
-Message Broker
+Broker
 :   **RabbitMQ** and  **Kafka**.
-
-Operating Systems
-:   **GNU/Linux**, **MacOS**, **FreeBSD** and **OpenBSD**.
 
 Languages
 ---------
