@@ -52,7 +52,7 @@ July 2013 - Apr. 2015
 
     I am actively contributing to open source projects that I find interesting and useful. Some of my contributions can be found in my [GitHub profile](https://github.com/maitesin).
 
-    These include, **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)** is a **self-hosting compiler** for **C** in the **ARM** architecture, **[Interactive CV](https://github.com/maitesin/rust-cv)** built using **Rust** and **Docker**, and a **[Prefix Tree Comparison](https://github.com/maitesin/tries)** to compare the performance of ***Trie*** and ***Radix Tree***.
+    These include, **[YAUS, Yet Another URL Shortener](https://github.com/maitesin/yaus)** is a toy project to play with **Flask** and **Heroku**, **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)** is a **self-hosting compiler** for **C** in the **ARM** architecture, and **[Interactive CV](https://github.com/maitesin/rust-cv)** built using **Rust** and **Docker**.
 
 [comment]: # (Courses)
 
@@ -84,11 +84,11 @@ Education
 Programming Languages
 --------------------
 
-C++
-:   5 years of experience using ***Modern C++*** and ***Boost***.
-
 Python
 :   5 years of experience.
+
+C++
+:   5 years of experience using ***Modern C++*** and ***Boost***.
 
 C
 :   4 years of experience.
@@ -108,16 +108,16 @@ CI
 :   **GitLab-CI**, **Jenkins**, **Bamboo** and **Travis**.
 
 Databases
-:   **MongoDB**, **PostgreSQL**, **CockroachDB**, **MariaDB**, **SQLite** and **MySQL**.
+:   **MongoDB**, **PostgreSQL**, **SQLite**, **MariaDB** and **MySQL**.
 
 Analysis
 :   **Golint**, **Go vet**, **Perf**, **Clang-sanitizer** and **Valgrind**.
 
 Orchestra.
-:   **Kubernetes**, **Helm** and **Docker compose**.
+:   **Docker compose**, **Heroku**, **Kubernetes**  and **Helm**.
 
 Broker
-:   **RabbitMQ** and  **Kafka**.
+:   **RabbitMQ**, **Redis** and **Kafka**.
 
 Languages
 ---------
