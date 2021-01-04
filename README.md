@@ -1,14 +1,11 @@
-The Markdown Resume
-===================
+# The Markdown Resume
 
-Instructions:
+## Dependencies
+```
+sudo apt install pandoc context texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra
+```
 
-    git clone https://github.com/mszep/pandoc_resume
-    cd pandoc_resume
-    vim resume.md   #insert your own resume info
-    make
-
-Requirements:
-
- * ConTeXt
- * pandoc
+## Compilation
+```
+make pdf
+```
