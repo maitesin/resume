@@ -12,7 +12,14 @@ Oscar Forner Martinez
 Experience
 ----------
 
-June 2018 - Present
+April 2020 - Present
+:   **Lead Software Engineer at Paack**
+
+    During my time in Paack I have worked in the **Warehouse Management System**, a new platform to allow parcels to be scanned and assigned to routes in a timely fashion. Moreover, I lead the revamp of the **Business Rules Management System**, a platform to allow Product People to change the rules applied to deliveries without having to change code. During this rework the **whole architecture of the system changed**, and a new UI was developed to fulfill the new requirements. I also had to design and implement the **migration process for the system to avoid downtime**.
+
+    As part of my role as Lead Software Engineer I mentored several people in my team and I was heavily involved in the hiring process of the company.
+
+June 2018 - April 2020
 :   **Senior Backend Software Engineer at GlobalSign**
 
     As part of my duties in GlobalSign I implemented new functionalities in the **High Performance Platform** that serve thousands of certificates per second, and I took care of the migration of backend storage from **MongoDB** to **PostgreSQL**.
@@ -44,8 +51,6 @@ July 2013 - Apr. 2015
 
     In addition, I developed an algorithm to cluster biological information from proteins.
 
-
-:  
 
 2013-Present
 :   **Open Source**
@@ -94,7 +99,7 @@ C
 :   4 years of experience.
 
 Go
-:   3 years of experience.
+:   4 years of experience.
 
 [comment]: # (Rust:   6 months of experience.)
 
@@ -130,7 +135,7 @@ English
 ----
 
 > <oscar.forner.martinez@gmail.com> \
-> +44 (0)75 96944383 \
+> +34 617 60 60 12 \
 > Blog: [https://oscarforner.com](https://oscarforner.com/) \
 > LinkedIn: [https://www.linkedin.com/in/oscarforner](https://www.linkedin.com/in/oscarforner) \
 > GitHub: [https://github.com/maitesin](https://github.com/maitesin)
