@@ -3,7 +3,7 @@ Oscar Forner Martinez
 
 ----
 
-> I am a software engineer with experience in all phases of the development process with special focus on delivering quality software to the costumers. I have experience in a diversity of projects ranging from a RESTful API processing thousands of requests per second, through compilers to video processing pipelines.
+> I am a senior software engineer with experience in a diversity of projects ranging from a RESTful API processing thousands of requests per second, through compilers to video processing pipelines.
 
 **You can use an interactive version of my CV by running: `docker run -it maitesin/resume`**
 
@@ -15,17 +15,15 @@ Experience
 April 2020 - Present
 :   **Lead Software Engineer at Paack**
 
-    During my time in Paack I have worked in the **Warehouse Management System**, a new platform to allow parcels to be scanned and assigned to routes in a timely fashion. Moreover, I lead the revamp of the **Business Rules Management System**, a platform to allow Product People to change the rules applied to deliveries without having to change code. During this rework the **whole architecture of the system changed**, and a new UI was developed to fulfill the new requirements. I also had to design and implement the **migration process for the system to avoid downtime**.
+    During my time in Paack I have worked in multiple projects, such as **Warehouse Management System**, **Business Rules Engine**, **New Retailer API**, and **Communications Service**. All of them were developed in **Go** using **PostgreSQL** as the database to store the information of the services and they were deployed in **Kubernetes** using **Helm** and **Istio**.
 
     As part of my role as Lead Software Engineer I mentored several people in my team and I was heavily involved in the hiring process of the company.
 
 June 2018 - April 2020
 :   **Senior Backend Software Engineer at GlobalSign**
 
-    As part of my duties in GlobalSign I implemented new functionalities in the **High Performance Platform** that serve thousands of certificates per second, and I took care of the migration of backend storage from **MongoDB** to **PostgreSQL**.
+    As part of my duties in GlobalSign I implemented new functionalities in the **High Performance Platform**, written in **Go**, that served thousands of certificates per second. I also lead the migration of backend storage from **MongoDB** to **PostgreSQL**.
 
-    Moreover, I implemented a prototype of the system used in production running in **Kubernetes** to test the feasibility of a future migration. As a side project I developed an **static analysis** tool to enforce the code style used in the company.
-    
     I mentored multiple new-hires and had a highly involved role in the hiring process. 
 
 Sept. 2016 - June 2018
@@ -49,15 +47,10 @@ July 2013 - Apr. 2015
 
     My main duty was to create a RESTful service to allow users to query for information about multiprotein complexes.
 
-    In addition, I developed an algorithm to cluster biological information from proteins.
-
-
 2013-Present
 :   **Open Source**
 
-    I am actively contributing to open source projects that I find interesting and useful. Some of my contributions can be found in my [GitHub profile](https://github.com/maitesin).
-
-    These include, **[YAUS, Yet Another URL Shortener](https://github.com/maitesin/yaus)** is a toy project to play with **Flask** and **Heroku**, **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)** is a **self-hosting compiler** for **C** in the **ARM** architecture, and **[Interactive CV](https://github.com/maitesin/rust-cv)** built using **Rust** and **Docker**.
+    Some of my Open Source projects are **[YAUS, Yet Another URL Shortener](https://github.com/maitesin/yaus)** is a toy project written in **Go** and deployed in **Heroku**, **[ARM C Compiler (ACC)](https://github.com/maitesin/acc)** is a **self-hosting compiler** for **C** in the **ARM** architecture, and **[Interactive CV](https://github.com/maitesin/rust-cv)** built using **Rust** and **Docker**.
 
 [comment]: # (Courses)
 
@@ -89,40 +82,37 @@ Education
 Programming Languages
 --------------------
 
+Go
+:   4 years of professional experience.
+
 Python
-:   5 years of experience.
+:   5 years of professional experience.
 
 C++
-:   5 years of experience using ***Modern C++*** and ***Boost***.
+:   5 years of professional experience using ***Modern C++*** and ***Boost*** Libraries.
 
 C
-:   4 years of experience.
+:   4 years of professional experience.
 
-Go
-:   4 years of experience.
-
-[comment]: # (Rust:   6 months of experience.)
+[comment]: # (Rust:   6 months of experience in personal projects.)
 
 Technical Skills
 ----------------
 
 Build
-:   **CMake**, **Meson**, **Make** and **Ninja**.
+:   **CMake**, **Meson**, **Make**, and **Ninja**.
 
 CI
-:   **GitLab-CI**, **Jenkins**, **Bamboo** and **Travis**.
+:   **GitLab-CI**, **Jenkins**, **GitHub Actions**, and **Travis**.
 
 Databases
-:   **MongoDB**, **PostgreSQL**, **SQLite**, **MariaDB** and **MySQL**.
-
-Analysis
-:   **Golint**, **Go vet**, **Perf**, **Clang-sanitizer** and **Valgrind**.
+:   **PostgreSQL**, **MongoDB**, **SQLite**, **MariaDB**, and **MySQL**.
 
 Orchestra.
-:   **Docker compose**, **Heroku**, **Kubernetes**  and **Helm**.
+:   **Docker compose**, **Heroku**, **Kubernetes**, **Helm**, and **Istio**.
 
 Broker
-:   **RabbitMQ**, **Redis** and **Kafka**.
+:   **RabbitMQ**, and **PubSub**.
 
 Languages
 ---------
