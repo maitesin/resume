@@ -1,3 +1,3 @@
 pdf:
-	pandoc --template=letter.tex letter.md -o letter.pdf
+	pandoc --template=letter letter.md -o letter.pdf
 
