@@ -5,7 +5,7 @@ Oscar Forner Martinez
 
 > I am a senior software engineer with experience in both bare metal and in the cloud, using RESTAPI and GraphQL for processing thousands of requests per second.
 
-**You can use an interactive version of my CV by running: `docker run -it maitesin/resume`**
+**You can access an interactive version of my CV by running: `docker run -it maitesin/resume`**
 
 ----
 
@@ -15,7 +15,7 @@ Experience
 July 2021 - May 2024
 :   **Senior Software Engineer at Sketch**
 
-    For the first 2 years I worked as the single Backend Engineer for the **Prototype Team**. My duties for the team where to implement all the different Prototype features required such as **assets generation, regeneration on-demand, invalidation, and deletion from S3 buckets**. These features had to be implemented in different number of servies implemented in **Elixir and Go**.
+    For the first 2 years I worked as the single Backend Engineer for the **Prototype Team**. My duties for the team were to implement all the different Prototype features required such as **assets generation, regeneration on-demand, invalidation, and deletion from S3 buckets**. These features had to be implemented in different number of services implemented in **Elixir and Go**.
 
     Afterwards, the teams got disolved and we started working on verticals. In my case, I was part of the **Web vertical**. During my time as part of the Web vertical I worked on multiple projects such as **permission groups, optimization of the rendering pipeline, optimization of the ingestion pipeline, workers to remove unused data from S3 buckets, etc**. These projects also required to modify or implement services in **Elixir and Go**.
 
